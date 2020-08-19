@@ -1,0 +1,6 @@
+[requires]
+opencv/4.3.0@conan/stable
+fmt/7.0.3
+
+[generators]
+cmake
